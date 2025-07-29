@@ -1,1 +1,1 @@
-Operatin
+Operating
