@@ -1,1 +1,1 @@
-Operating syste
+Operating system
