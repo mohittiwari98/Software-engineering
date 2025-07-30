@@ -1,1 +1,1 @@
-Operating syst
+Operating syste
