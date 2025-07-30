@@ -1,1 +1,1 @@
-Operating system la
+Operating system lab
