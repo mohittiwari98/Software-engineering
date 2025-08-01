@@ -1,2 +1,2 @@
 //Operating system lab
-s
+so
