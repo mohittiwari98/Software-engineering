@@ -1,2 +1,2 @@
 //Operating system lab
-software-e
+software-en
