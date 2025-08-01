@@ -1,2 +1,2 @@
 //Operating system lab
-software-engineering la
+software-engineering lab
