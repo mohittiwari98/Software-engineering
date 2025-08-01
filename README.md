@@ -1,2 +1,2 @@
 //Operating system lab
-software-enginee
+software-engineer
